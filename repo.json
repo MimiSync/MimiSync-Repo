@@ -1,0 +1,26 @@
+[
+    {
+        "Author": "Mimi",
+        "Name": "MimiSync",
+        "InternalName": "MimiSync",
+        "AssemblyVersion": "9.9.0.0",
+        "TestingAssemblyVersion": "9.9.0.0",
+        "Description": "This plugin will synchronize your Penumbra mods and cerurrent Glamour state with other paired clients automatically.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
+        "Tags": [
+          "customization"
+        ],
+        "DalamudApiLevel": 13,
+        "TestingDalamudApiLevel": 13,
+        "LoadPriority": 0,
+        "IconUrl": "",
+        "Punchline": "",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "CanUnloadAsync": true,
+        "DownloadLinkInstall": "https://github.com/Eauldane/SnowcloakClient/releases/download/0.1.8/SnowcloakClient.zip",
+        "DownloadLinkTesting": "https://github.com/Eauldane/SnowcloakClient/releases/download/0.1.8/SnowcloakClient.zip",
+        "DownloadLinkUpdate": "https://github.com/Eauldane/SnowcloakClient/releases/download/0.1.8/SnowcloakClient.zip"
+    }
+]
