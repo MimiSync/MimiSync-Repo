@@ -14,7 +14,7 @@
         "DalamudApiLevel": 13,
         "TestingDalamudApiLevel": 13,
         "LoadPriority": 0,
-        "IconUrl": "",
+        "IconUrl": "https://raw.githubusercontent.com/MimiSync/MimiSync-Repo/refs/heads/main/icon.png",
         "Punchline": "",
         "IsHide": false,
         "IsTestingExclusive": false,
