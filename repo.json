@@ -3,8 +3,7 @@
         "Author": "Mimi",
         "Name": "MimiSync",
         "InternalName": "MimiSync",
-        "AssemblyVersion": "9.9.0.0",
-        "TestingAssemblyVersion": "9.9.0.0",
+        "AssemblyVersion": "10.0.0.0",
         "Description": "This plugin will synchronize your Penumbra mods and cerurrent Glamour state with other paired clients automatically.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/MimiSync/MimiSync-Repo",
@@ -19,8 +18,8 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "CanUnloadAsync": true,
-        "DownloadLinkInstall": "https://github.com/MimiSync/MimiSync-Repo/raw/refs/heads/main/releases/9.9.0.0.zip",
-        "DownloadLinkTesting": "https://github.com/MimiSync/MimiSync-Repo/raw/refs/heads/main/releases/9.9.0.0.zip",
-        "DownloadLinkUpdate": "https://github.com/MimiSync/MimiSync-Repo/raw/refs/heads/main/releases/9.9.0.0.zip"
+        "DownloadLinkInstall": "https://github.com/MimiSync/MimiSync-Repo/raw/refs/heads/main/releases/10.0.0.0.zip",
+        "DownloadLinkTesting": "https://github.com/MimiSync/MimiSync-Repo/raw/refs/heads/main/releases/10.0.0.0.zip",
+        "DownloadLinkUpdate": "https://github.com/MimiSync/MimiSync-Repo/raw/refs/heads/main/releases/10.0.0.0.zip"
     }
 ]
